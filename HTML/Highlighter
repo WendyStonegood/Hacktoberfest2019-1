@@ -1,0 +1,19 @@
+<style>
+ .highlight, p{
+text-decoration:none;
+    font-family:Bebas Neue;
+    text-align:center;
+    color:#000;
+    font-size:22px;
+    letter-spacing:5px;
+}
+  
+  .highlightSpan{
+    background:#DCFE01;
+    margin-right:4px;
+    margin-left:2px;
+    padding-top:3px;
+  }
+</style>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing<span class="highlightSpan"><a href="#" class="highlight">
+    elit.</a></span>Suspendisse aliquam dui sem, nec vestibulum neque.<p>
